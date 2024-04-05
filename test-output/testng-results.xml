@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Login Status Text shown and is Verified!]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Greeting Text is verified!]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Total Applicants text verified!==]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Total Applicants Number Verified!==]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Total Applications Text has been Verified!==]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Total Applications Number has been Verified!==]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Granted Student Text has been Verified!==]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Granted Student Number has been Verfied!==]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Total Universities Text has been Verified!]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+    <line>
+      <![CDATA[====BROWSER SESSION STARTED====]]>
+    </line>
+    <line>
+      <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+    </line>
+    <line>
+      <![CDATA[==Total Universities Number has been Verified!==]]>
+    </line>
+    <line>
+      <![CDATA[==BROWSER SESSION END==]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-04-04T10:29:49 NPT" name="Default suite" finished-at="2024-04-04T10:30:30 NPT" duration-ms="41332">
+    <groups>
+    </groups>
+    <test started-at="2024-04-04T10:29:49 NPT" name="Default test" finished-at="2024-04-04T10:30:30 NPT" duration-ms="41332">
+      <class name="myproject.DashBoardTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:29:49 NPT" name="setUp" finished-at="2024-04-04T10:29:52 NPT" duration-ms="3059" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyLoginStatusText()[pri:20, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:29:52 NPT" name="verifyLoginStatusText" finished-at="2024-04-04T10:29:55 NPT" duration-ms="2577" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Login Status Text shown and is Verified!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginStatusText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:29:55 NPT" name="tearDown" finished-at="2024-04-04T10:29:55 NPT" duration-ms="176" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:29:55 NPT" name="setUp" finished-at="2024-04-04T10:29:56 NPT" duration-ms="1458" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGreetingText()[pri:30, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:29:56 NPT" name="verifyGreetingText" finished-at="2024-04-04T10:29:59 NPT" duration-ms="2063" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Greeting Text is verified!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyGreetingText -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:29:59 NPT" name="tearDown" finished-at="2024-04-04T10:29:59 NPT" duration-ms="124" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:29:59 NPT" name="setUp" finished-at="2024-04-04T10:30:00 NPT" duration-ms="1380" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTotalApplicants()[pri:40, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:00 NPT" name="verifyTotalApplicants" finished-at="2024-04-04T10:30:02 NPT" duration-ms="1974" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Total Applicants text verified!==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTotalApplicants -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:02 NPT" name="tearDown" finished-at="2024-04-04T10:30:02 NPT" duration-ms="133" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:02 NPT" name="setUp" finished-at="2024-04-04T10:30:04 NPT" duration-ms="1356" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTotalApplicantsNumber()[pri:50, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:04 NPT" name="verifyTotalApplicantsNumber" finished-at="2024-04-04T10:30:07 NPT" duration-ms="2994" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Total Applicants Number Verified!==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTotalApplicantsNumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:07 NPT" name="tearDown" finished-at="2024-04-04T10:30:07 NPT" duration-ms="146" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:07 NPT" name="setUp" finished-at="2024-04-04T10:30:08 NPT" duration-ms="1385" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTotalApplications()[pri:60, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:08 NPT" name="verifyTotalApplications" finished-at="2024-04-04T10:30:10 NPT" duration-ms="1909" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Total Applications Text has been Verified!==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTotalApplications -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:10 NPT" name="tearDown" finished-at="2024-04-04T10:30:10 NPT" duration-ms="103" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:10 NPT" name="setUp" finished-at="2024-04-04T10:30:11 NPT" duration-ms="1373" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTotalApplicationsNumber()[pri:70, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:11 NPT" name="verifyTotalApplicationsNumber" finished-at="2024-04-04T10:30:14 NPT" duration-ms="2853" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Total Applications Number has been Verified!==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTotalApplicationsNumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:14 NPT" name="tearDown" finished-at="2024-04-04T10:30:14 NPT" duration-ms="137" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:14 NPT" name="setUp" finished-at="2024-04-04T10:30:16 NPT" duration-ms="1435" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGrantedStudent()[pri:80, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:16 NPT" name="verifyGrantedStudent" finished-at="2024-04-04T10:30:18 NPT" duration-ms="1930" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Granted Student Text has been Verified!==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyGrantedStudent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:18 NPT" name="tearDown" finished-at="2024-04-04T10:30:18 NPT" duration-ms="124" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:18 NPT" name="setUp" finished-at="2024-04-04T10:30:19 NPT" duration-ms="1498" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyGrantedStudentNumber()[pri:90, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:19 NPT" name="verifyGrantedStudentNumber" finished-at="2024-04-04T10:30:22 NPT" duration-ms="2877" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Granted Student Number has been Verfied!==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyGrantedStudentNumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:22 NPT" name="tearDown" finished-at="2024-04-04T10:30:22 NPT" duration-ms="164" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:22 NPT" name="setUp" finished-at="2024-04-04T10:30:24 NPT" duration-ms="1426" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTotalUniversities()[pri:100, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:24 NPT" name="verifyTotalUniversities" finished-at="2024-04-04T10:30:26 NPT" duration-ms="2030" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Total Universities Text has been Verified!]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTotalUniversities -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:26 NPT" name="tearDown" finished-at="2024-04-04T10:30:26 NPT" duration-ms="121" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:26 NPT" name="setUp" finished-at="2024-04-04T10:30:27 NPT" duration-ms="1459" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[====BROWSER SESSION STARTED====]]>
+            </line>
+            <line>
+              <![CDATA[===STARTING WITH CHROME BROWSER===]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTotalUniversitiesNumber()[pri:110, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:27 NPT" name="verifyTotalUniversitiesNumber" finished-at="2024-04-04T10:30:30 NPT" duration-ms="2854" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==Total Universities Number has been Verified!==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyTotalUniversitiesNumber -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:myproject.DashBoardTest@59af0466]" started-at="2024-04-04T10:30:30 NPT" name="tearDown" finished-at="2024-04-04T10:30:30 NPT" duration-ms="147" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[==BROWSER SESSION END==]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- myproject.DashBoardTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
